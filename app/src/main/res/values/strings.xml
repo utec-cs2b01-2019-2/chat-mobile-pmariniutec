@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chat Plataformas</string>
+    <string name="title_login">Chat Plataformas</string>
+	<string name="title_login_code">201810680 / Piero Marini</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="button_login">Enter</string>
+    <string name="string_register">Register</string>
+    <string name="string_accept">Accept</string>
+    <string name="string_login">Login</string>
+    <string name="string_name">Name</string>
+    <string name="string_full_name">Name</string>
+    <string name="string_username">Username</string>
+    <string name="string_password">Password</string>
+</resources>
